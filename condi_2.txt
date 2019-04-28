@@ -1,0 +1,1 @@
+la deuxieme condition cest que au moins 2 autre fichier que le fichier README.txt doivent etre contenue dans le projet .  
